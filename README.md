@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **rohithkumar412.t@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a2aDKd1SiNF1XLqAFFIe-LYP2xACFUWi/view](https://drive.google.com/file/d/1a2aDKd1SiNF1XLqAFFIe-LYP2xACFUWi/view)
-
 - ⚡ Fun fact **I hated Javascript, but now I am working on improving it...**
 
 <h3 align="left">Connect with me:</h3>
